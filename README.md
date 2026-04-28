@@ -1,4 +1,4 @@
-ircle Jump (Console Game)
+Circle Jump (Console Game)
 
 Circle Jump is a simple console-based arcade game written in C++. The player controls a character that must jump and avoid obstacles while the game speed gradually increases.
 
